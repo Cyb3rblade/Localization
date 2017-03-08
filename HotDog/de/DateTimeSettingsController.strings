@@ -1,0 +1,50 @@
+{
+  "HIDE_DATE_TIME" = "Datum & Uhrzeit: Ausblenden";
+	"DEFAULT" = "Standard";
+	"DONE" = "Fertig";
+	"LOCKSCREEN_DATETIME_TITLE" = "Datum & Uhrzeit: Sperrbildschirm";
+	"TIME_FORMAT" = "Uhrzeit: Format";
+	"TIME_FONT_SIZE" = "Uhrzeit: Schriftgröße";
+	"DATE_FORMAT" = "Datum: Format";
+	"DATE_FONT_SIZE" = "Datum: Schriftgöße";
+	"CUSTOM_COLOR" = "Datum und Uhrzeit: Farben anpassen";
+	"PICK_COLOR_DEFAULT" = "Primärfarbe";
+	"PICK_COLOR_WITH_NOTIFICATION" = "Sekundärfarbe";
+	"POSITION_DEFAULT" = "Position (Standard)";
+	"POSITION_FOOTER" = "In 'X' und 'Y' können positive oder negative Werte eingetragen werden, z.B. '50' o. '-50'. Zum Zurücksetzen die Werte löschen.";
+	"FONT_SIZE" = "Schriftgröße";
+	"X_(TIME):" = "X (Uhrzeit):";
+	"Y_(TIME):" = "Y (Uhrzeit):";
+	"X_(DATE):" = "X (Datum):";
+	"Y_(DATE):" = "Y (Datum):";
+	"ALWAYS_SHOW_DATE_FOOTER_TEXT" = "Aktiviert permanent das Datum auf dem Sperrbildschirm, dies ist gerade einer angepassten Position sinnvoll, weil iOS während des Ladevorgangs mmer zuerst das Batteriesymbol angezeigt.";
+	"ALWAYS_SHOW_DATE" = "Datum immer anzeigen";
+	"ENABLE_ALIGNMENT" = "Ausrichtung";
+	"ALIGNMENT_FOOTER" = "Ausrichtungen sind noch in einem frühen Teststadium, rechne mit Fehlern. The position of labels with alignment enabled is different from normal labels with no alignment.\n\nIf you choose Right alignment, the X position will be the space between the right side of the screen and the label.";
+	"TIME_LABEL_ALIGNMENT" = "Ausrichtung: Uhrzeitwidget";
+	"DATE_LABEL_ALIGNMENT" = "Ausrichtung: Datumswidget";
+	"LEFT" = "Linksbündig";
+	"CENTER" = "Zentriert";
+	"RIGHT" = "Rechtsbündig";
+	"BOLD_TIME" = "Zeit 'fett' formatieren";
+	"POSITION_WITH_MEDIA" = "Position (während Medienwiedergabe)";
+	"SHOW_DATE_TIME_WITH_MEDIA" = "Datum & Uhrzeit während der Medienwiedergabe anzeigen";
+	"CUSTOM_COLOR_FOOTER" = "Die Primärfarbe gibt die Standardfarbe des Sperrbildschirms an, die Sekundärfarbe färbt zusätzliche Anzeigen wie z.B. die der Medienwiedergabe oder Push-Benachrichtigungen";
+	"LOCKSCREEN_DATETIME_FOOTER" = "Date & Time Format:
+Wochentag: eee:Sa., eeee:Samstag
+Tagesdatum: d:4, dd:04
+Monat: M:4, MM:04, MMM:Apr, MMMM:April, MMMMM:A
+Jahr: y:2015, yy:15
+12 Stunden: h:9, hh:09
+24 Stunden: H:1, HH:01
+Minute: m:4, mm:04
+Sekunde: s:5, ss:05 (iOS 8 oder höher)
+AM/PM: a
+Eigener Text: 'Text' (mit Apostroph)
+Neue Zeile: \\n (funktioniert NUR bei Daten)
+
+Beispiel:
+eeee|dd|MMMM|yyyy ==> Montag|13|April|2015
+Note:
+Damit die Zeiteinstellungen korrekt übernommen werden muss in den Einstellungen > Allgemein > Datum & Uhrzeit -> 24-Stunden deaktiviert werden.";
+}
